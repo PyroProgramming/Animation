@@ -1,8 +1,3 @@
-#Kaeden Matches
-#April 15
-#Animation Project
-#The Project where I learn Animations
-
 #Imports
 import pygame, sys, random
 
